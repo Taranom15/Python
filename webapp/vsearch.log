@@ -1,0 +1,4 @@
+ImmutableMultiDict([('phrase', 'earch,4lettersWelcome to search4letter'), ('letters', 'die,mn')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36|{'e', ',', 'm'}
+ImmutableMultiDict([('phrase', 'earch,4lettersWelcome to search4letter'), ('letters', '478')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36|{'4'}
+ImmutableMultiDict([('phrase', 'earch,4lettersWelco9538'), ('letters', '478')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36|{'8', '4'}
+ImmutableMultiDict([('phrase', 'earch,4lettersWelco9538'), ('letters', '478e')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36|{'e', '8', '4'}
